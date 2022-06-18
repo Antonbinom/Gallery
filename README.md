@@ -1,5 +1,5 @@
 # Gallery
 
-## Сайт галлерея в рамках учебного проекта
+## Сайт галерея
 
 ## <a href="https://antonbinom.github.io/Gallery/">Ссылка</a>
