@@ -15,6 +15,7 @@
 ## Стек технологий
 
 - JavaScript
+- Rest API
 - Fetch
 - Masonry
 
